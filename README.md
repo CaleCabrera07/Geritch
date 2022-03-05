@@ -1,5 +1,5 @@
 # Restaurant Landing Page
-### [Live Site](https://gericht-restaurant.com/)
+### [Live Site](https://cc-geritch.netlify.app)
 
 - Beautiful headphone landing page using HTML, CSS, React.
 - Dark interface.
